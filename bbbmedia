@@ -1,16 +1,19 @@
 {
-"name": "Bad Boy Media",
-"author": "boy23",
-"info": "online",
-"image":"https://reviewvpn.com/wp-content/uploads/2020/04/Bad-Boy-IPTV-logo.png",
-"url": "",
-"stations":[
- 
-{"name":"TVTHAI",
-"image":"https://www.banidea.com/wp-content/uploads/2014/04/TV-Digital-Thai-Logo.png",
-"url":"https://pastebin.com/raw/qVTu0D4A"},
-
-{"name":"Home Entertainment",
-"image":"https://images.seeklogo.com/logo-png/6/1/home-entertainment-logo-png_seeklogo-67573.png",
-"url":"https://pastebin.com/raw/1Q45t8Ds"},
-]}
+  "name": "Bad Boy Media",
+  "author": "boy23",
+  "info": "online",
+  "image": "https://reviewvpn.com/wp-content/uploads/2020/04/Bad-Boy-IPTV-logo.png",
+  "url": "",
+  "groups": [
+    {
+      "name": "TVTHAI",
+      "image": "https://www.banidea.com/wp-content/uploads/2014/04/TV-Digital-Thai-Logo.png",
+      "url": "https://pastebin.com/raw/qVTu0D4A"
+    },
+    {
+      "name": "Home Entertainment",
+      "image": "https://images.seeklogo.com/logo-png/6/1/home-entertainment-logo-png_seeklogo-67573.png",
+      "url": "https://pastebin.com/raw/1Q45t8Ds"
+    }
+  ]
+}
