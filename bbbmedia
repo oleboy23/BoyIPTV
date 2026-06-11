@@ -23,7 +23,7 @@
     {
       "name": "Guflix",
       "image": "https://guflix.streaming-fast.com/vip_wiseplay/WEB/logo.png",
-      "url": "http://guflix.streaming-fast.com/free_wiseplay/578d7dc9830d326133861b54cacdc5fe/guflixfree.m3u8"
+      "url": "http://guflix.streaming-fast.com/wiseplay/guflix/playlist.m3u8"
     },
     {
       "name": "Collection Movie",
