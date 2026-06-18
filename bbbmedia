@@ -18,7 +18,7 @@
     {
       "name": "WorldwideIPTV",
       "image": "https://image.roku.com/developer_channels/prod/a0b7a875b697727685342b64d95aa0ec6c15c10f27323703b24de8483a0839e1.png",
-      "url": "https://pastebin.com/raw/hvh072aK"
+      "url": "https://iptv-org.github.io/iptv/index.m3u"
     },
     {
       "name": "Guflix",
@@ -26,7 +26,7 @@
       "url": "http://guflix.streaming-fast.com/wiseplay/guflix/playlist.m3u8"
     },
     {
-      "name": "พี่เพิ่มหวังว่าจะดูได้บ้าง",
+      "name": "I-YEPPED",
       "image": "https://ih1.redbubble.net/image.5392658294.7125/st,small,507x507-pad,600x600,f8f8f8.jpg",
       "url": "https://pastebin.com/raw/2g8mwS0T"
     },
