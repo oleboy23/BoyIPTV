@@ -6,14 +6,9 @@
   "url": "https://raw.githubusercontent.com/oleboy23/BoyIPTV/refs/heads/main/bbbmedia",
   "groups": [
     {
-      "name": "TVTHAI",
-      "image": "https://www.banidea.com/wp-content/uploads/2014/04/TV-Digital-Thai-Logo.png",
-      "url": "https://pastebin.com/raw/qVTu0D4A"
-    },
-    {
-      "name": "Home Entertainment",
-      "image": "https://images.seeklogo.com/logo-png/6/1/home-entertainment-logo-png_seeklogo-67573.png",
-      "url": "https://pastebin.com/raw/1Q45t8Ds"
+      "name": "LiveTV",
+      "image": "https://emby.media/community/uploads/monthly_2025_08/livetv.thumb.png.f86af370194387178548e6525c71d3d2.png",
+      "url": "https://raw.githubusercontent.com/oleboy23/xtreamiptv/refs/heads/main/m3u"
     },
     {
       "name": "WorldwideIPTV",
@@ -21,19 +16,9 @@
       "url": "https://iptv-org.github.io/iptv/index.m3u"
     },
     {
-      "name": "Guflix",
-      "image": "https://guflix.streaming-fast.com/vip_wiseplay/WEB/logo.png",
-      "url": "http://guflix.streaming-fast.com/wiseplay/guflix/playlist.m3u8"
-    },
-    {
-      "name": "I-YEPPED",
-      "image": "https://ih1.redbubble.net/image.5392658294.7125/st,small,507x507-pad,600x600,f8f8f8.jpg",
-      "url": "https://pastebin.com/raw/2g8mwS0T"
-    },
-    {
-      "name": "Collection Movie",
-      "image": "https://img.magnific.com/vettori-premium/disegno-del-modello-del-logo-della-collezione-di-film_20029-859.jpg",
-      "url": "https://pastebin.com/raw/Kea3iJAC"
+      "name": "Doowiseplay by CAT",
+      "image": "https://dslv9ilpbe7p1.cloudfront.net/4iAiB4rI7dMOf5XwruwFHA_store_logo_image.png",
+      "url": "https://cat.doofree.workers.dev/"
     },
     {
       "name": "HOME THEATRE",
