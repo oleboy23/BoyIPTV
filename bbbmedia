@@ -6,9 +6,9 @@
   "url": "https://raw.githubusercontent.com/oleboy23/BoyIPTV/refs/heads/main/bbbmedia",
   "groups": [
     {
-      "name": "LiveTV",
-      "image": "https://emby.media/community/uploads/monthly_2025_08/livetv.thumb.png.f86af370194387178548e6525c71d3d2.png",
-      "url": "https://pastebin.com/raw/A0GjvdGX"
+      "name": "sky store HD",
+      "image": "https://banner2.cleanpng.com/20180714/wsb/kisspng-sky-cinema-now-tv-sky-sports-sky-plc-sky-uk-sky-png-5b49dd177e7946.214558431531567383518.jpg",
+      "url": "https://raw.githubusercontent.com/oleboy23/IPTV/refs/heads/main/skystore.w3u"
     },
     {
       "name": "WorldwideIPTV",
