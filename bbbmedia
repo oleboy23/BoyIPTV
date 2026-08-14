@@ -6,6 +6,11 @@
   "url": "https://raw.githubusercontent.com/oleboy23/BoyIPTV/refs/heads/main/bbbmedia",
   "groups": [
     {
+      "name": "truesport",
+      "image": "https://www.ohlthai.com/wp-content/uploads/2021/03/true-sport-hd-1024x200.png",
+      "url": "https://raw.githubusercontent.com/oleboy23/sports/refs/heads/main/tsp.w3u"
+    },
+    {
       "name": "sky store HD",
       "image": "https://banner2.cleanpng.com/20180714/wsb/kisspng-sky-cinema-now-tv-sky-sports-sky-plc-sky-uk-sky-png-5b49dd177e7946.214558431531567383518.jpg",
       "url": "https://raw.githubusercontent.com/oleboy23/IPTV/refs/heads/main/skystore.w3u"
