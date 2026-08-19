@@ -40,3 +40,54 @@ http://weaseltv.live:80/play/live.php?mac=00:1A:79:35:08:A6&stream=918985&extens
 
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ASTROSPORTS.png",UK| ASTRO Premier League HD
 http://weaseltv.live:80/play/live.php?mac=00:1A:79:35:08:A6&stream=918986&extension=m3u8
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png",UK| BEIN SPORT 1 EN HD
+http://atk97.online:80/play/live.php?mac=00:1A:79:C0:31:65&stream=49226&extension=m3u8
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png",UK| BEIN SPORT 2 EN HD
+http://atk97.online:80/play/live.php?mac=00:1A:79:C0:31:65&stream=49225&extension=m3u8
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png",UK| BEIN SPORTS 2 HD
+http://atk97.online:80/play/live.php?mac=00:1A:79:C0:31:65&stream=238264&extension=m3u8
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS3.png",UK| BEIN SPORTS 3 HD
+http://atk97.online:80/play/live.php?mac=00:1A:79:C0:31:65&stream=238266&extension=m3u8
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS4.png",UK| BEIN SPORTS 4 HD
+http://atk97.online:80/play/live.php?mac=00:1A:79:C0:31:65&stream=238267&extension=m3u8
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS5.png",UK| BEIN SPORTS 5 HD
+http://atk97.online:80/play/live.php?mac=00:1A:79:C0:31:65&stream=238268&extension=m3u8
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS6.png",UK| BEIN SPORTS 6 HD
+http://atk97.online:80/play/live.php?mac=00:1A:79:C0:31:65&stream=238269&extension=m3u8
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS7.png",UK| BEIN SPORTS 7 HD
+http://atk97.online:80/play/live.php?mac=00:1A:79:C0:31:65&stream=238270&extension=m3u8
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png",UK| BEIN SPORTS 1 PREMIUM HD
+http://atk97.online:80/play/live.php?mac=00:1A:79:C0:31:65&stream=238261&extension=m3u8
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png",UK| BEIN SPORTS 2 PREMIUM HD
+http://atk97.online:80/play/live.php?mac=00:1A:79:C0:31:65&stream=238262&extension=m3u8
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS3.png",UK| BEIN SPORTS 3 PREMIUM HD
+http://atk97.online:80/play/live.php?mac=00:1A:79:C0:31:65&stream=238263&extension=m3u8
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png",UK| BEIN SPORTS AU 1
+http://atk97.online:80/play/live.php?mac=00:1A:79:C0:31:65&stream=1348093&extension=m3u8
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png",UK| BEIN SPORTS AU 2
+http://atk97.online:80/play/live.php?mac=00:1A:79:C0:31:65&stream=1348102&extension=m3u8
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS3.png",UK| BEIN SPORTS AU 3
+http://atk97.online:80/play/live.php?mac=00:1A:79:C0:31:65&stream=1348103&extension=m3u8
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png",UK| BEIN SPORTS ASIA 1
+http://atk97.online:80/play/live.php?mac=00:1A:79:C0:31:65&stream=923432&extension=m3u8
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png",UK| BEIN SPORTS ASIA 2
+http://atk97.online:80/play/live.php?mac=00:1A:79:C0:31:65&stream=923431&extension=m3u8
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS3.png",UK| BEIN SPORTS ASIA 3
+http://atk97.online:80/play/live.php?mac=00:1A:79:C0:31:65&stream=923430&extension=m3u8
