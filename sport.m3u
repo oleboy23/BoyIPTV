@@ -83,11 +83,4 @@ http://atk97.online:80/play/live.php?mac=00:1A:79:C0:31:65&stream=1348102&extens
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS3.png",UK| BEIN SPORTS AU 3
 http://atk97.online:80/play/live.php?mac=00:1A:79:C0:31:65&stream=1348103&extension=m3u8
 
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png",UK| BEIN SPORTS ASIA 1
-http://atk97.online:80/play/live.php?mac=00:1A:79:C0:31:65&stream=923432&extension=m3u8
 
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png",UK| BEIN SPORTS ASIA 2
-http://atk97.online:80/play/live.php?mac=00:1A:79:C0:31:65&stream=923431&extension=m3u8
-
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS3.png",UK| BEIN SPORTS ASIA 3
-http://atk97.online:80/play/live.php?mac=00:1A:79:C0:31:65&stream=923430&extension=m3u8
