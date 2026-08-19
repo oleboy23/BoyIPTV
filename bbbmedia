@@ -21,15 +21,16 @@
       "url": "https://raw.githubusercontent.com/oleboy23/sports/refs/heads/main/ssb.w3u"
     },
     {
+      "name": "evolution sport",
+      "image": "https://www.neolutionesport.com/wp-content/uploads/2017/07/Logo-1.png",
+      "url": "https://raw.githubusercontent.com/oleboy23/BoyIPTV/refs/heads/main/sport.m3u"
+    },
+    {
       "name": "sky store HD",
       "image": "https://banner2.cleanpng.com/20180714/wsb/kisspng-sky-cinema-now-tv-sky-sports-sky-plc-sky-uk-sky-png-5b49dd177e7946.214558431531567383518.jpg",
       "url": "https://raw.githubusercontent.com/oleboy23/IPTV/refs/heads/main/skystore.w3u"
     },
-    {
-      "name": "ขุนโจร สโตน เมททัล ไฟเยอร์",
-      "image": "http://tiny.cc/ycs8101",
-      "url": "https://raw.githubusercontent.com/oleboy23/BoyIPTV/refs/heads/main/sport.m3u"
-    },
+    
     {
       "name": "WorldwideIPTV",
       "image": "https://image.roku.com/developer_channels/prod/a0b7a875b697727685342b64d95aa0ec6c15c10f27323703b24de8483a0839e1.png",
