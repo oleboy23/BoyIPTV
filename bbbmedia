@@ -11,6 +11,11 @@
       "url": "https://raw.githubusercontent.com/oleboy23/sports/refs/heads/main/tsp.w3u"
     },
     {
+      "name": "MonomaX",
+      "image": "https://img-ha.mthcdn.com/695b_nRRn7KSpKZC-VTlMmHkE-I=/680x420/smart/monomaxsports.tv/app/wp-post-thumbnail/BC0RNl.png",
+      "url": "https://raw.githubusercontent.com/oleboy23/sports/refs/heads/main/monomax.m3u"
+    },
+    {
       "name": "soccer (live only)",
       "image": "http://web.uni-plovdiv.bg/stu0705661039/Mitaka/images/Worldsoccercolour.jpg",
       "url": "https://raw.githubusercontent.com/oleboy23/sports/refs/heads/main/liveonly.w3u"
