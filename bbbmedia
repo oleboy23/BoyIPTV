@@ -27,18 +27,13 @@
     },
     {
       "name": "sky sport CALCIO",
-      "image": "https://www.davidemaggio.it/app/uploads/2021/06/Sky-Calcio.jpg",
-      "url": "https://raw.githubusercontent.com/oleboy23/sports/refs/heads/main/calcio.m3u"
+      "image": "https://r2.thesportsdb.com/images/media/channel/logo/70ud6o1656963115.png",
+      "url": "https://raw.githubusercontent.com/oleboy23/calcio/refs/heads/main/skysport.w3u"
     },
     {
       "name": "evolution sport",
       "image": "https://www.neolutionesport.com/wp-content/uploads/2017/07/Logo-1.png",
       "url": "https://raw.githubusercontent.com/oleboy23/BoyIPTV/refs/heads/main/sport.m3u"
-    },
-    {
-      "name": "madoball (web online)",
-      "image": "https://cdn10.madoball.com/upload/1782661225474.webp",
-      "url": "https://raw.githubusercontent.com/oleboy23/BoyIPTV/refs/heads/main/madoball.m3u"
     },
     {
       "name": "sky store HD",
