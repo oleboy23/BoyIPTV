@@ -1,0 +1,35 @@
+{"name": "เวิร์ลซอคเกอร์",
+"author": "บังบอย-ดูเอามันส์",
+"image": "https://static.cdnlogo.com/logos/s/582/soccer-logo.png",
+"info": "เฉพาะรายการสด",
+"groups": [
+
+{"name": "บังบอย-ดูเอามันส์",
+"author": "เรียกพี่เพิ่มมันเชยไป พี่บอยได้ไหมคะ",
+"info": "แด่ปุถุชนคนธรรมดา",
+"image":"https://bit.ly/4qZJbGw",
+"url": "",
+"stations":[
+
+{"name":"bein1",
+"image":"https://resizer-acm.eco.astro.com.my/tr:w-96,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png",
+"url":"https://warpdooball.net/live-football/?id=2330205",
+"referer":"https://warpdooball.net/",
+"info":"บังบอย-ดูเอามันส์",
+"playInNatPlayer":"true"},
+
+{"name":"bein2",
+"image":"https://resizer-acm.eco.astro.com.my/tr:w-96,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/466_144.png",
+"url":"https://warpdooball.net/live-football/?id=2330280",
+"referer":"https://warpdooball.net/",
+"info":"บังบอย-ดูเอามันส์",
+"playInNatPlayer":"true"},
+
+{"name":"bein3",
+"image":"https://resizer-acm.eco.astro.com.my/tr:w-96,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png",
+"url":"https://warpdooball.net/live-football/?id=2330279",
+"referer":"https://warpdooball.net/",
+"info":"บังบอย-ดูเอามันส์",
+"playInNatPlayer":"true"}
+]}
+]}
