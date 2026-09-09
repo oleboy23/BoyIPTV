@@ -41,9 +41,9 @@
       "url": "https://raw.githubusercontent.com/oleboy23/IPTV/refs/heads/main/skystore.w3u"
     },
     {
-      "name": "WorldwideIPTV",
-      "image": "https://image.roku.com/developer_channels/prod/a0b7a875b697727685342b64d95aa0ec6c15c10f27323703b24de8483a0839e1.png",
-      "url": "https://iptv-org.github.io/iptv/index.m3u"
+      "name": "SOCCER",
+      "image": "https://cdn.freebiesupply.com/logos/large/2x/soccer-logo-black-and-white.png",
+      "url": "https://raw.githubusercontent.com/oleboy23/BoyIPTV/refs/heads/main/soccer.w3u"
     },
     {
       "name": "Doowiseplay by CAT",
