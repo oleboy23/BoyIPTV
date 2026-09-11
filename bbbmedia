@@ -11,6 +11,11 @@
       "url": "https://raw.githubusercontent.com/oleboy23/sports/refs/heads/main/tsp.w3u"
     },
     {
+      "name": "SOCCER",
+      "image": "https://cdn.freebiesupply.com/logos/large/2x/soccer-logo-black-and-white.png",
+      "url": "https://raw.githubusercontent.com/oleboy23/BoyIPTV/refs/heads/main/soccer.w3u"
+    },
+    {
       "name": "MAXsport",
       "image": "https://www.crofutsal.com/wp-content/uploads/2023/04/MaxSport-768x354.jpg",
       "url": "https://raw.githubusercontent.com/oleboy23/sports/refs/heads/main/monomax.w3u"
@@ -39,11 +44,6 @@
       "name": "sky store HD",
       "image": "https://banner2.cleanpng.com/20180714/wsb/kisspng-sky-cinema-now-tv-sky-sports-sky-plc-sky-uk-sky-png-5b49dd177e7946.214558431531567383518.jpg",
       "url": "https://raw.githubusercontent.com/oleboy23/IPTV/refs/heads/main/skystore.w3u"
-    },
-    {
-      "name": "SOCCER",
-      "image": "https://cdn.freebiesupply.com/logos/large/2x/soccer-logo-black-and-white.png",
-      "url": "https://raw.githubusercontent.com/oleboy23/BoyIPTV/refs/heads/main/soccer.w3u"
     },
     {
       "name": "Doowiseplay by CAT",
