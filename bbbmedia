@@ -26,21 +26,6 @@
       "url": "https://raw.githubusercontent.com/oleboy23/sports/refs/heads/main/liveonly.w3u"
     },
     {
-      "name": "sky sport BUNDESLIGA",
-      "image": "https://static.skyassets.com/contentstack/assets/blt4b099fa9cc3801a6/blt689a8ec21a8ba16e/68a31aaf6ea2cd2d8de77c49/Bun-MAIN.jpg?downsize=1200:*&output-format=jpg",
-      "url": "https://raw.githubusercontent.com/oleboy23/sports/refs/heads/main/ssb.w3u"
-    },
-    {
-      "name": "sky sport CALCIO",
-      "image": "https://r2.thesportsdb.com/images/media/channel/logo/70ud6o1656963115.png",
-      "url": "https://raw.githubusercontent.com/oleboy23/calcio/refs/heads/main/skysport.w3u"
-    },
-    {
-      "name": "evolution sport",
-      "image": "https://www.neolutionesport.com/wp-content/uploads/2017/07/Logo-1.png",
-      "url": "https://raw.githubusercontent.com/oleboy23/BoyIPTV/refs/heads/main/sport.m3u"
-    },
-    {
       "name": "sky store HD",
       "image": "https://banner2.cleanpng.com/20180714/wsb/kisspng-sky-cinema-now-tv-sky-sports-sky-plc-sky-uk-sky-png-5b49dd177e7946.214558431531567383518.jpg",
       "url": "https://raw.githubusercontent.com/oleboy23/IPTV/refs/heads/main/skystore.w3u"
@@ -49,16 +34,6 @@
       "name": "Doowiseplay by CAT",
       "image": "https://dslv9ilpbe7p1.cloudfront.net/4iAiB4rI7dMOf5XwruwFHA_store_logo_image.png",
       "url": "https://cat.doofree.workers.dev/"
-    },
-    {
-      "name": "HOME THEATRE",
-      "image": "https://prodimages.everythingneon.com/1000/en/n105-10876-home-theatre-with-border-neon-sign.jpg",
-      "url": "http://tiny.cc/0mqm001"
-    },
-    {
-      "name": "Series TV",
-      "image": "https://www.sarascrive.com/wp-content/uploads/2020/06/Tele-Logo-1.png",
-      "url": "https://drive.google.com/uc?id=1Jr4FpUVDrqRzgf3RHkra9f6byHuq2TOH"
     },
     {
       "name": "Anime",
