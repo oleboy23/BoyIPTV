@@ -11,6 +11,11 @@
       "url": "https://raw.githubusercontent.com/oleboy23/sports/refs/heads/main/tsp.w3u"
     },
     {
+      "name": "SOCCER",
+      "image": "https://cdn.freebiesupply.com/logos/large/2x/soccer-logo-black-and-white.png",
+      "url": "https://raw.githubusercontent.com/oleboy23/BoyIPTV/refs/heads/main/soccer.w3u"
+    },
+    {
       "name": "MAXsport",
       "image": "https://www.crofutsal.com/wp-content/uploads/2023/04/MaxSport-768x354.jpg",
       "url": "https://raw.githubusercontent.com/oleboy23/sports/refs/heads/main/monomax.w3u"
