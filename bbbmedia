@@ -6,6 +6,11 @@
   "url": "https://raw.githubusercontent.com/oleboy23/BoyIPTV/refs/heads/main/bbbmedia",
   "groups": [
     {
+      "name": "Live event only",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_SPORT_color.png",
+      "url": "https://raw.githubusercontent.com/oleboy23/sports/refs/heads/main/livestream.w3u"
+    },
+    {
       "name": "truesport",
       "image": "https://www.ohlthai.com/wp-content/uploads/2021/03/true-sport-hd-1024x200.png",
       "url": "https://raw.githubusercontent.com/oleboy23/sports/refs/heads/main/tsp.w3u"
