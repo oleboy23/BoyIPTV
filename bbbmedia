@@ -11,14 +11,14 @@
       "url": "https://raw.githubusercontent.com/oleboy23/sports/refs/heads/main/live.w3u"
     },
     {
-      "name": "truesport",
-      "image": "https://www.ohlthai.com/wp-content/uploads/2021/03/true-sport-hd-1024x200.png",
-      "url": "https://raw.githubusercontent.com/oleboy23/sports/refs/heads/main/tsp.w3u"
-    },
-    {
       "name": "MAXsport",
       "image": "https://www.crofutsal.com/wp-content/uploads/2023/04/MaxSport-768x354.jpg",
       "url": "https://raw.githubusercontent.com/oleboy23/sports/refs/heads/main/maxsport.w3u"
+    },
+    {
+      "name": "truesport",
+      "image": "https://www.ohlthai.com/wp-content/uploads/2021/03/true-sport-hd-1024x200.png",
+      "url": "https://raw.githubusercontent.com/oleboy23/sports/refs/heads/main/tsp.w3u"
     },
     {
       "name": "soccer (live only)",
